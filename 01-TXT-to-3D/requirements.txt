@@ -6,3 +6,6 @@ accelerate
 numpy
 pillow
 trimesh
+pytorch3d
+gradio
+tinycudann
